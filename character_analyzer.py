@@ -8,3 +8,4 @@ elif char.islower():
 else:
     print("Not a Letter")
     
+#This is a Character Analyzer code
